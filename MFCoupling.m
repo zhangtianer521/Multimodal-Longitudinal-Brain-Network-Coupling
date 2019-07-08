@@ -1,4 +1,4 @@
-function[U, Vf, Vd, Vfc, Vdc, Loss] = MFOrth(R_train, K, lambda, lr, maxiter)
+function[U, Vf, Vd, Vfc, Vdc, Loss] = MFCoupling(R_train, K, lambda, lr, maxiter)
 
 %%%%%%%Input-
 
